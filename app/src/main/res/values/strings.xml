@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase2</string>
+    <string-array name="district">
+        <item>kannur</item>
+        <item>kottayam</item>
+        <item>kollam</item>
+        <item>kasargod</item>
+
+    </string-array>
+
+</resources>
